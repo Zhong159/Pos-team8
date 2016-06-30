@@ -1,0 +1,12 @@
+﻿  main.cpp
+  VIPManage.cpp
+  VIP.cpp
+  Cart.cpp
+  正在生成代码...
+d:\work3\work3\vipmanage.cpp(86): warning C4715: “VIPManage::IsUser”: 不是所有的控件路径都返回值
+d:\work3\work3\vipmanage.cpp(106): warning C4715: “VIPManage::IsVIP”: 不是所有的控件路径都返回值
+d:\work3\work3\main.cpp(89): warning C4715: “Check”: 不是所有的控件路径都返回值
+  正在跳过...(未检测到相关更改)
+  Item.cpp
+  Work3.vcxproj -> D:\Work3\Debug\Work3.exe
+  Work3.vcxproj -> D:\Work3\Debug\Work3.pdb (Partial PDB)

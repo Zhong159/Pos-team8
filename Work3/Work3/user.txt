@@ -1,0 +1,8 @@
+name:user001 IsVIP:true
+name:user002 IsVIP:true
+name:user003 IsVIP:true
+name:user004 IsVIP:true
+name:user005 IsVIP:false
+name:hanyu IsVIP:false
+name:hanyu1 IsVIP:false
+name:hanyu2 IsVIP:true
